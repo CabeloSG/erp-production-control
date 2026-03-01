@@ -1,0 +1,13 @@
+# FRONT
+node_modules
+dist
+
+# BACK
+target
+
+# IDE
+.idea
+.vscode
+
+# logs
+*.log
